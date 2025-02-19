@@ -1,35 +1,30 @@
 ---
-title: "Flockenberger's Website"
-layout: archive
-
-excerpt: ""
-
+layout: splash
+permalink: /
+exceprt: ""
 header:
-image: assets/images/flockenberger.jpg
+  image: /assets/images/flockenberger.png
 author_profile: false
-
 ---
-<p>
-Welcome to my page :)
-</p>
-<p>
-Enjoy your stay!
-</p>
-{{ content }}
+
+# Welcome!
+This is my humble little web-page where I'll post and write about all the little things I do.
+
+
+Enjoy your Stay!
+
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}
-{% assign posts = paginator.posts %}
+  {% assign posts = paginator.posts %}
 {% else %}
-{% assign posts = site.posts %}
+  {% assign posts = site.posts %}
 {% endif %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
   {% for post in posts %}
-  {% include archive-single.html type=entries_layout %}
+    {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>
-
-{% include paginator.html %}
