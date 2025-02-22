@@ -10,7 +10,7 @@ author_profile: false
 
 sidebar:
   - title: "How To Use"
-    text: "1. Make a waypoint exactly at your position, or where your float lands.\n2. Save the waypoint into your favorites through the worldmap and give it a name you remember for step 5.\n3. Got to \n Documents/Black Desert/UserCache/ACCOUNTID folder.\n4. Open the file named \"gamevariable.xml\" in any text editor of your choice.\n5. In that file search for the name you used in step 2.\n6. Copy the X and the Z(!) coordinates from the bookmark into the boxes to the right and press the button."
+    text: "1. Make a waypoint exactly at your position, or where your float lands.\n2. Save the waypoint into your favorites through the worldmap and give it a name you remember for step 6.\n3. Go to the character selection screen!\n4. Got to \n Documents/Black Desert/UserCache/ACCOUNTID folder.\n5. Open the file named \"gamevariable.xml\" in any text editor of your choice.\n6. In that file search for the name you used in step 2.\n7. Copy the X and the Z(!) coordinates from the bookmark into the boxes to the right and press the button."
 
 
 ---
