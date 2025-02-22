@@ -5,7 +5,7 @@ exceprt: ""
 layout: single
 
 header:
-  overlay_image: /assets/images/bdo_fish_zones/Other Regions - Coast Surfperch Default_Preview.webp
+  overlay_image: /assets/images/bdo_fish_zones/Zenato Sea - Depth 3_Preview.webp
 author_profile: false
 
 sidebar:
