@@ -166,7 +166,7 @@ sidebar:
         function loadColorImage(colorName) {
             const colorImage = document.getElementById('colorImage');
 
-            const imagePath = `/assets/images/bdo_fish_zones/${colorName.toLowerCase()}_Preview.webp`;
+            const imagePath = `/assets/images/bdo_fish_zones/${colorName}_Preview.webp`;
 
             colorImage.src = imagePath;
             colorImage.style.display = 'block';
