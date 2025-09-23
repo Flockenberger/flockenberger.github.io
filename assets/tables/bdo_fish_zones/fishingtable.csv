@@ -139,10 +139,10 @@
 180;255;250;Elsana Sea - Depth 3
 220;255;250;Elsana Sea - Depth 2
 240;255;250;Elsana Sea - Depth 1
-0;0;234;Grándiha - Docks
+0;0;234;Grandiha - Docks
 250;235;0;Papua Crinea
 250;235;100;Papua Crinea - Waterfalls
-250;250;0;Kamasylvia Islands (Grándiha / Papua Crinea)
+250;250;0;Kamasylvia Islands (Grandiha  Papua Crinea)
 198;199;0;Kamasylvia - Upstream
 158;159;0;Kamasylvia - Downstream
 128;129;0;Kamasylvia - Tooth Fairy Cabin
@@ -175,31 +175,50 @@
 66;176;218;Mountain of Eternal Winter - Wind Nol Swamp
 133;176;218;Mountain of Eternal Winter - Tori Woods Lake
 66;255;255;Mountain of Eternal Winter - Upstream Source
-66;182;20;Land of the Morning Light - Terrain
-118;255;173;Land of the Morning Light - Zone 0
-136;38;236;Land of the Morning Light - Zone 1
-89;38;236;Land of the Morning Light - Zone 2
-61;17;188;Land of the Morning Light - Zone 3
-49;15;146;Land of the Morning Light - Zone 4
-80;58;144;Land of the Morning Light - Zone 5
-122;99;186;Land of the Morning Light - Zone 6
-161;134;236;Land of the Morning Light - Zone 7
-72;61;104;Land of the Morning Light - Zone 8
-236;110;26;Land of the Morning Light - Zone 9
-234;153;99;Land of the Morning Light - Zone 10
-177;87;27;Land of the Morning Light - Zone 11
-134;64;17;Land of the Morning Light - Zone 12
-243;106;14;Land of the Morning Light - Zone 13
-240;180;140;Land of the Morning Light - Zone 14
-91;49;21;Land of the Morning Light - Zone 15
-178;112;68;Land of the Morning Light - Zone 16
-166;75;14;Land of the Morning Light - Zone 17
-193;99;36;Land of the Morning Light - Zone 18
-115;96;84;Land of the Morning Light - Zone 19
-169;138;118;Land of the Morning Light - Zone 20
-117;54;12;Land of the Morning Light - Zone 21
-179;77;8;Land of the Morning Light - Zone 22
-248;152;89;Land of the Morning Light - Zone 23
-87;64;48;Land of the Morning Light - Zone 24
-226;138;79;Land of the Morning Light - Zone 25
-243;220;205;Land of the Morning Light - Zone 26
+66;182;20;Land of the Morning Light P1 - Terrain
+1;130;240;Nampo Coast
+1;100;5;Nampo Sea
+1;90;240;Nampo Coast (Event Spot)
+170;100;245;Nopsae Coast
+170;100;35;Nopsae Sea
+1;130;220;Land of the Morning Light  P2- Terrain
+62;255;62;Land of the Morning Light P1 - Default
+210;180;1;Nopsae River (Koi Spot)
+210;80;1;Nopsae River
+105;130;211;Hanji River - Downstream
+105;130;111;Hanji River - Middle
+105;130;255;Hanji River - Prize Spot
+105;130;11;-
+1;130;11;Beombawi - Downstream
+1;130;111;Beombawi - Center
+1;130;211;-
+215;33;42;Sea Palace
+200;200;5;Hwanghae Coast
+250;2;200;Hwanghae Sea
+2;140;140;Bakpo Sea
+2;140;250;Bakpo Coast
+50;155;50;-
+30;75;40;Gyeonghoeru Pavilion
+100;240;240;-
+191;191;32;Seoul
+2;88;88;-
+20;150;20;-
+50;50;200;Byeolli Forest - Downstream
+50;100;200;Byeolli Forest - Upstream
+150;55;122;-
+100;20;150;-
+140;55;55;-
+250;100;150;-
+66;89;250;Eilton (Event Spot)
+66;89;20;Eilton (Event Spot)
+255;0;156;Land of the Morning Light  P2 - Unknown
+99;99;150;Edania - Terrain
+99;99;50;Edania - Longing Lake
+150;99;50;Edania - Martyr's Ring
+150;99;150;Edania - Stillmouth Lake
+150;50;150;Edania - Stillcoral Grove
+78;89;115;Edania - Shore of Ruins
+150;89;115;Edania - Coast of Despair
+239;219;138;Edania - Chisti Sea
+70;242;216;Edania - Unknown
+55;7;55;Ulukita - Unknown
